@@ -1,0 +1,15 @@
+:root {
+  /* color */
+  --SoftBlue: hsl(231, 69%, 60%);
+  --SoftRed: hsl(0, 94%, 66%);
+  --GrayishBlue: hsl(229, 8%, 60%);
+  --VeryDarkBlue: hsl(229, 31%, 21%);
+  --darkBlue: #242946;
+
+  /* fz */
+  --fz: 18px;
+
+  /* box-shadow */
+
+  --bs: 4px 11px 25px -11px rgba(34, 60, 80, 0.31);
+}
